@@ -1,0 +1,34 @@
+match,round,home,away,t,minute,score,scorer,own_goal,for_united,united_home
+5795364,1,Hull City,Manchester United,17,17',1-0,Semi Ajayi,False,,False
+5795364,1,Hull City,Manchester United,38,38',2-0,Nobel Mendy,False,,False
+5795432,2,Manchester United,Ipswich Town,29,29',0-1,Leif Davis,False,,True
+5795432,2,Manchester United,Ipswich Town,40,40',1-1,Bruno Fernandes,False,,True
+5795432,2,Manchester United,Ipswich Town,58,56',2-1,Jacob Greaves,True,,True
+5795432,2,Manchester United,Ipswich Town,63,61',3-1,Bruno Fernandes,False,,True
+5795432,2,Manchester United,Ipswich Town,70,68',4-1,Bruno Fernandes,False,,True
+5795432,2,Manchester United,Ipswich Town,84,82',5-1,Bryan Mbeumo,False,,True
+5795432,2,Manchester United,Ipswich Town,93,90+1',5-2,Chuba Akpom,False,,True
+5795438,3,Everton,Manchester United,49,46',0-1,Bryan Mbeumo,False,,False
+5795438,3,Everton,Manchester United,86,83',1-1,Tyrique George,False,,False
+5795438,3,Everton,Manchester United,91,88',1-2,Benjamin Šeško,False,,False
+5795438,3,Everton,Manchester United,99,90+6',2-2,Ainsley Maitland-Niles,False,,False
+5795452,4,Manchester United,Manchester City,62,60',0-1,Erling Haaland,False,,True
+5795459,5,Fulham,Manchester United,63,63',1-0,Lisandro Martínez,True,,False
+5795459,5,Fulham,Manchester United,89,89',1-1,Matheus Cunha,False,,False
+5795473,6,Manchester United,Tottenham Hotspur,74,73',1-0,Bryan Mbeumo,False,,True
+5795473,6,Manchester United,Tottenham Hotspur,93,90+2',1-1,Dominic Solanke,False,,True
+5795480,7,Leeds United,Manchester United,35,35',0-1,Bryan Mbeumo,False,,False
+5795480,7,Leeds United,Manchester United,51,51',1-1,Dominic Calvert-Lewin,False,,False
+5795493,8,Manchester United,AFC Bournemouth,38,38',0-1,Rayan,False,,True
+5795493,8,Manchester United,AFC Bournemouth,43,43',0-2,Marcus Tavernier,False,,True
+5795493,8,Manchester United,AFC Bournemouth,73,71',0-3,Evanilson,False,,True
+5795498,9,Chelsea,Manchester United,52,50',1-0,Morgan Rogers,False,,False
+5795498,9,Chelsea,Manchester United,66,64',2-0,Cole Palmer,False,,False
+5795512,10,Manchester United,Aston Villa,1,1',0-1,Alysson Edward,False,,True
+5795512,10,Manchester United,Aston Villa,4,4',0-2,Nicolas Jackson,False,,True
+5795512,10,Manchester United,Aston Villa,16,16',1-2,Bruno Fernandes,False,,True
+5795512,10,Manchester United,Aston Villa,44,44',2-2,Youri Tielemans,False,,True
+5795512,10,Manchester United,Aston Villa,52,48',2-3,John McGinn,False,,True
+5795512,10,Manchester United,Aston Villa,57,53',2-4,Leon Goretzka,False,,True
+5795512,10,Manchester United,Aston Villa,96,90+2',3-4,Joshua Zirkzee,False,,True
+5795512,10,Manchester United,Aston Villa,100,90+6',4-4,Patrick Dorgu,False,,True
